@@ -106,6 +106,10 @@ python <nom-du-script>.py
 - **Exécuter une requête** : Sélectionnez une requête dans le menu déroulant et cliquez sur "Execute Query".
 - **Supprimer une requête** : Sélectionnez une requête et cliquez sur "Delete Query".
 
+## Vidéo de démonstration
+
+[![Regarder la vidéo](https://drive.google.com/file/d/1kVH5UG6s5LDEp5FzUliw8LDcGEsxOo_j/view?usp=sharing)
+
 ## Journalisation
 L'application génère des journaux pour suivre les erreurs et les succès dans un format lisible dans la console.
 
