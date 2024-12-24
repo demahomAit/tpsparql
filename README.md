@@ -108,7 +108,8 @@ python <nom-du-script>.py
 
 ## Vidéo de démonstration
 
-[![Regarder la vidéo](https://drive.google.com/file/d/1kVH5UG6s5LDEp5FzUliw8LDcGEsxOo_j/view?usp=sharing)
+[![Regarder la vidéo](https://drive.google.com/uc?id=1kVH5UG6s5LDEp5FzUliw8LDcGEsxOo_j)](https://drive.google.com/file/d/1kVH5UG6s5LDEp5FzUliw8LDcGEsxOo_j/view?usp=sharing)
+
 
 ## Journalisation
 L'application génère des journaux pour suivre les erreurs et les succès dans un format lisible dans la console.
